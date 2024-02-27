@@ -1,0 +1,31 @@
+.sidebar {
+  width: 20%;
+  height: 100vh;
+  background-color: #040440;
+  color: white;
+}
+
+.sidebar-inner {
+  display: flex;
+  margin: 10%;
+  flex-direction: column;
+}
+
+.profile-container {
+  display: flex;
+  gap: 10%;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+  background-color: #2d2d69;
+}
+
+.profile-avatar {
+  display: flex;
+  gap: 10%;
+}
+
+.profile-title {
+  font-weight: 500;
+  font-size: 20px;
+}

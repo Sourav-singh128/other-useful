@@ -1,0 +1,8 @@
+.homepage-container {
+  background-color: #f5f6f8;
+  padding: 40px;
+  width: -webkit-fill-available;
+  display: flex;
+  flex-direction: column;
+  gap: 10%;
+}
