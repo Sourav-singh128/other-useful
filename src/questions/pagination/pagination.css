@@ -1,0 +1,28 @@
+.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  row-gap: 10px;
+  column-gap: 10px;
+}
+
+.card {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.page {
+  padding: 5px;
+  margin: 2px;
+  cursor: pointer;
+}
+
+.sage {
+  color: orange;
+  border: 1px solid black;
+  background: pink;
+  border-radius: 40%;
+}
+
+.hide {
+  display: none;
+}
